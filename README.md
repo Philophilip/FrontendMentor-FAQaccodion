@@ -11,7 +11,7 @@ A responsive FAQ accordion component built using semantic HTML, modern CSS, and 
 ---
 
 ## 🚀 Live Demo
-🔗 https://project-1-personal-portfolio.vercel.app/
+🔗 https://frontend-mentor-faq-accodion.vercel.app/
 
 ---
 
