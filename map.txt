@@ -1,0 +1,19 @@
+Structure
+
+Body
+    -Card
+        -Title container
+            -icon container
+            -title container
+        -q1 container
+            -question container
+            -answer container
+        -q2 container
+            -question container
+            -answer container
+        -q3 container
+            -question container
+            -answer container
+        -q4 container
+            -question container
+            -answer container
